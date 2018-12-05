@@ -1,0 +1,64 @@
+= Cheatsheets
+
+[[Exchange]]
+== Exchange
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
+[[Quote]]
+== Quote
+
+++++
+ Created by Ioniki on 2/17/16.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
+[[Split]]
+== Split
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
+[[Symbol]]
+== Symbol
+
+++++
+ Created by Ioniki on 2/17/16.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
+[[SymbolChange]]
+== SymbolChange
+
+++++
+ Created by Ioniki on 2/17/16.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
